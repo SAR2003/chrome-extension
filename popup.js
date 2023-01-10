@@ -11,6 +11,7 @@ p1.then((response)=>{
     //  const currentTime=date.getTime()/1000;
 
      totalContests=data;
+     console.log(totalContests)
     
     //  const  upComingContest=data.result.filter(c=>{
 
